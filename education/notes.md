@@ -32,3 +32,23 @@ Pull = fetch and merge. Commits, puts them back together in the staging area and
 
 ## 2.5
 GitHub workflow scaled for the needs of students. Generate repo's.
+* Assignment link; private repo with starter code.
+
+Organizations can have multiple contributers. With each of their own permissions.
+
+## 3.1 
+Shared repository with starter code for group assignment.
+Pull requests are for technically for merging one branch into the other. But they are also useful for peer feedback.
+Hub package wraps git with extra cli commands.
+
+Inline feedback can have canned responses, and you can also create issues.j
+
+## 3.2
+Git is very precise but it has a hard time if someone edit the same line. It needs a human to fix it.
+* Conflict markers
+
+## 3.3 / 3.4 
+-
+
+## 4.1
+-
